@@ -1,0 +1,4 @@
+interface:
+  display_name: "Odoo Platform Standards"
+  short_description: "Sync specs and enforce Odoo conventions"
+  default_prompt: "Load odoo-specs, map repo conventions, and enforce ADR guardrails before implementing."
